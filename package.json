@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/tipleyg/swu-adept/issues"
   },
-  "homepage": "https://github.com/tipleyg/swu-adept#readme"
+  "homepage": "https://github.com/tipleyg/swu-adept#readme",
+  "type": "module"
 }
