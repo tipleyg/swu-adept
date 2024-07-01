@@ -16,5 +16,8 @@
     "url": "https://github.com/tipleyg/swu-adept/issues"
   },
   "homepage": "https://github.com/tipleyg/swu-adept#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "react": "^18.3.1"
+  }
 }
