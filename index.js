@@ -1,3 +1,6 @@
-import { getCardsSOR, getCardsSOROP } from "./getCards.js";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-console.log(JSON.stringify(getCardsSOROP().data.length));
+const root = ReactDOM.createRoot(document.getElementById('App'));
+root.render(<App />);
